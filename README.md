@@ -1,8 +1,4 @@
-# Entrega: Oregon Trail com Sintaxe de Classe
-
-Para começar, faça o clone desse repositório.
-
-Revise a aula de Sintaxe de Classe e veja como criar um objeto de classe usando uma função construtora para instanciar propriedades e definir os métodos comum a todas as instâncias da classe, utilizando **sintaxe de classe**. Aqui está um exemplo:
+Oregon Trail com Sintaxe de Classe
 
 ```javascript
 class Dog {
